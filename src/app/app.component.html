@@ -1,0 +1,30 @@
+<ion-app>
+
+  <ion-split-pane when="md" contentId="main">
+
+    <ion-menu side="start" menuId="first" contentId="main">
+      <ion-header>
+        <ion-toolbar cplor="primary">
+          <ion-title>Componentes</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-list>
+          <ion-menu-toggle autoHide="false">
+            
+            <ion-item *ngFor="let c of componentes | async" routerLink="{{c.redirectTo}}">
+              <ion-icon slot="start" name="{{c.icon}}" color="primary"></ion-icon>
+              {{c.name}}
+            </ion-item>
+  
+          </ion-menu-toggle>
+        </ion-list>
+      </ion-content>
+    </ion-menu>
+  
+    <ion-router-outlet id="main"></ion-router-outlet>
+
+  </ion-split-pane>
+
+  
+</ion-app>

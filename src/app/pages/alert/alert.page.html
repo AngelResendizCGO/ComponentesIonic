@@ -1,0 +1,21 @@
+<app-header titulo = "Alert"></app-header>
+
+<ion-content class="ion-padding">
+
+    <ion-button (click)="onClick()" expand="block" >
+        Alert
+    </ion-button>
+
+    <ion-button (click)="presentAlert2()" expand="block">Alert 2</ion-button>
+    <p>{{ handlerMessage }}</p>
+    <p>{{ roleMessage }}</p>
+
+    <ion-button (click)="infoClick()" expand="block" >
+        Informacion
+    </ion-button>
+
+    <ion-button (click)="RadioButton()" expand="block">Radio button</ion-button>
+
+    <ion-button (click)="Custom()" expand="block">Personalizado</ion-button>
+
+</ion-content>

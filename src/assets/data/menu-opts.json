@@ -1,0 +1,117 @@
+[
+  {
+    "icon": "american-football",
+    "name": "Action Sheet",
+    "redirectTo": "/action-sheet"
+  },
+  {
+    "icon": "alert-circle-outline",
+    "name": "Alert",
+    "redirectTo": "/alert"
+  },
+  {
+    "icon": "beaker",
+    "name": "Avatar",
+    "redirectTo": "/avatar"
+  },
+  {
+    "icon": "radio-button-off-outline",
+    "name": "Buttons",
+    "redirectTo": "/buttons"
+  },
+  {
+    "icon": "card",
+    "name": "Cards",
+    "redirectTo": "/card"
+  },
+  {
+    "icon": "checkmark-circle-outline",
+    "name": "Checks",
+    "redirectTo": "/check"
+  },
+  {
+    "icon": "calendar",
+    "name": "Date Time",
+    "redirectTo": "/date-time"
+  },
+  {
+    "icon": "car-outline",
+    "name": "Fab",
+    "redirectTo": "/fab"
+  },
+  {
+    "icon": "grid",
+    "name": "Grid",
+    "redirectTo": "/grid"
+  },
+  {
+    "icon": "infinite-outline",
+    "name": "Infinite",
+    "redirectTo": "/infinite"
+  },
+  {
+    "icon": "hammer",
+    "name": "Input",
+    "redirectTo": "/input"
+  },
+  {
+    "icon": "list-outline",
+    "name": "List",
+    "redirectTo": "/list"
+  },
+  {
+    "icon": "reorder-three",
+    "name": "List-Reorder",
+    "redirectTo": "/list-reorder"
+  },
+  {
+    "icon": "refresh-circle-outline",
+    "name": "Loading",
+    "redirectTo": "/loading"
+  },
+  {
+    "icon": "phone-portrait",
+    "name": "Modal",
+    "redirectTo": "/modal"
+  },
+  {
+    "icon": "tablet-portrait-outline",
+    "name": "Popover",
+    "redirectTo": "/popover"
+  },
+  {
+    "icon": "code-working",
+    "name": "Progress",
+    "redirectTo": "/progress"
+  },
+  {
+    "icon": "arrow-down-circle-outline",
+    "name": "Refresher",
+    "redirectTo": "/refresher"
+  },
+  {
+    "icon": "search",
+    "name": "Search",
+    "redirectTo": "/search"
+  },
+  {
+    "icon": "copy-outline",
+    "name": "Segment",
+    "redirectTo": "/segment"
+  },
+  {
+    "icon": "albums",
+    "name": "Slides",
+    "redirectTo": "/slides"
+  },
+  {
+    "icon": "cog-outline",
+    "name": "Tabs",
+    "redirectTo": "/tabs"
+  },
+  {
+    "icon": "pricetag",
+    "name": "Toast",
+    "redirectTo": "/toast"
+  }
+]

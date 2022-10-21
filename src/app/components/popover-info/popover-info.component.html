@@ -1,0 +1,5 @@
+<ion-list *ngFor="let dato of datos | async" (click)="onClick(dato.id)">
+  <ion-item>
+    <ion-label>{{dato.id}}</ion-label>
+  </ion-item>
+</ion-list>
